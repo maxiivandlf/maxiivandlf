@@ -1,14 +1,12 @@
-Hi 👋 My name is Maxi
-=====================
+# Hi 👋 My name is Maxi
 
-Front-end web developer
------------------------
+## Front-end web developer
 
 I have been learning front end web development since 2020, I am studying information systems engineering. I am currently dabbling in React in a self-taught way. In my university career I have seen other technologies such as C++, .Net, SQL.
 
-* 🌍  I'm based in La Rioja, Argentina
-* 🖥️  See my portfolio at [MaxiIvandev](http://maxiivandev.netlify.com)
-* 🧠  I'm learning React, CSS, HTML y JavaScript
+- 🌍  I'm based in La Rioja, Argentina
+- 🖥️  See my portfolio at [MaxiIvandev](http://maxiivandev.netlify.com)
+- 🧠  I'm learning React, CSS, HTML y JavaScript
 
 <a href="https://www.github.com/maxiivandlf" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/maxiivandlf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -26,7 +24,6 @@ src="https://img.shields.io/github/followers/maxiivandlf?logo=github&style=for-t
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/maxiivandlf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maxiivandlf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
@@ -35,13 +32,11 @@ src="https://img.shields.io/github/followers/maxiivandlf?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/maxiivandlf"><img src="https://github-readme-stats.vercel.app/api?username=maxiivandlf&show_icons=true&theme=dracula" alt="maxiivandlf's GitHub stats" /></a>
+<a href="http://www.github.com/maxiivandlf"><img src="https://github-readme-stats.vercel.app/api?username=maxiivandlf&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="maxiivandlf's GitHub stats" /></a>
 
 <a href="http://www.github.com/maxiivandlf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiivandlf&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/maxiivandlf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiivandlf&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Top Repositories</b>
 
