@@ -5,7 +5,7 @@
 I have been learning front end web development since 2020, I am studying information systems engineering. I am currently dabbling in React in a self-taught way. In my university career I have seen other technologies such as C++, .Net, SQL.
 
 - 🌍  I'm based in La Rioja, Argentina
-- 🖥️  See my portfolio at [MaxiIvandev](http://maxiivandev.netlify.com)
+- 🖥️  See my portfolio at [MaxiIvandev](http://maxiivan.dev)
 - 🧠  I'm learning React, CSS, HTML y JavaScript
 
 <a href="https://www.github.com/maxiivandlf" target="_blank" rel="noreferrer"><img
