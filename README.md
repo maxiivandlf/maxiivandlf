@@ -1,46 +1,78 @@
-# Hi 👋 My name is Maxi
+# Hola, soy Maxi 👋
 
-## Front-end web developer
+## Desarrollador Full Stack y Administrador de Sistemas
 
-I have been learning front end web development since 2020, I am studying information systems engineering. I am currently dabbling in React in a self-taught way. In my university career I have seen other technologies such as C++, .Net, SQL.
+Soy estudiante de Ingeniería en Sistemas de Información y desarrollador de software. Vivo en La Rioja, Argentina.
 
-- 🌍  I'm based in La Rioja, Argentina
-- 🖥️  See my portfolio at [MaxiIvandev](http://maxiivan.dev)
-- 🧠  I'm learning React, CSS, HTML y JavaScript
+Me dedico al desarrollo y mantenimiento de aplicaciones web orientadas a la gestión educativa. Trabajo principalmente con **Laravel, Livewire, PostgreSQL, JavaScript y Tailwind CSS**, participando tanto en el desarrollo de funcionalidades como en el diseño de la arquitectura y la administración de la infraestructura.
 
-<a href="https://www.github.com/maxiivandlf" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/maxiivandlf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+También cuento con amplia experiencia en administración de servidores Linux, redes, seguridad, automatización de despliegues, monitoreo y mantenimiento de entornos de producción.
 
-### Skills
+Actualmente estoy enfocado en diseñar aplicaciones empresariales mantenibles, mejorar la arquitectura de software y profundizar mis conocimientos en **TypeScript, React, Next.js y NestJS**.
+
+- 🔭 Trabajo en sistemas de gestión educativa de gran escala
+- 🧩 Desarrollo soluciones con Laravel, Livewire, PostgreSQL y Tailwind CSS
+- 🐧 Administro servidores Linux, entornos Docker, Nginx y procesos de CI/CD
+- 🛡️ Tengo experiencia en seguridad, monitoreo, backups y mantenimiento de infraestructura
+- 🎓 Estudio Ingeniería en Sistemas de Información
+- 🌱 Estoy profundizando mis conocimientos en TypeScript, React, Next.js y NestJS
+- 🌍 Vivo en La Rioja, Argentina
+- 🌐 Portfolio: [maxiivan.dev](https://maxiivan.dev)
+- 💼 LinkedIn: [maxiivandlf](https://www.linkedin.com/in/maxiivandlf)
+
+## Tecnologías
+
+### Backend y bases de datos
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Infraestructura y herramientas
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## Áreas en las que trabajo
+
+- Desarrollo full stack de plataformas administrativas y educativas
+- Análisis y modelado de procesos y reglas de negocio
+- Diseño de arquitecturas mantenibles y escalables
+- Diseño, optimización y administración de bases de datos PostgreSQL
+- Autenticación, autorización, auditoría y seguridad de aplicaciones
+- Administración de servidores Linux y entornos de producción
+- Entornos de desarrollo y despliegue basados en Docker
+- Automatización de despliegues mediante CI/CD
+- Monitoreo, registro de eventos, backups y fortalecimiento de infraestructura
+
+## Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=maxiivandlf&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=maxiivandlf&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maxiivandlf&layout=compact&theme=github_dark)
+
+## Contacto
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+  <a href="https://www.linkedin.com/in/maxiivandlf">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://maxiivan.dev">
+    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/maxiivandlf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maxiivandlf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/maxiivandlf"><img src="https://github-readme-stats.vercel.app/api?username=maxiivandlf&bg_color=1c1917&show_icons=true&icon_color=0891b2&title_color=0891b2&theme=radical&hide_border=true" alt="maxiivandlf's GitHub stats" /></a>
-
-<a href="http://www.github.com/maxiivandlf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maxiivandlf&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/maxiivandlf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxiivandlf&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/maxiivandlf/curriculum" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maxiivandlf&repo=curriculum&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a><a href="https://github.com/maxiivandlf/festivalmusica" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maxiivandlf&repo=festivalmusica&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a></div><br /><br /><br />
-<br />
-<br />
-<div width="100%" align="center"><a href="https://github.com/maxiivandlf/blogdecafe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maxiivandlf&repo=blogdecafe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a><a href="https://github.com/maxiivandlf/buscador-de-imagenes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maxiivandlf&repo=buscador-de-imagenes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a></div>
