@@ -4,9 +4,9 @@
 
 Soy estudiante de Ingeniería en Sistemas de Información y desarrollador de software. Vivo en La Rioja, Argentina.
 
-Me dedico al desarrollo y mantenimiento de aplicaciones web orientadas a la gestión educativa. Trabajo principalmente con **Laravel, Livewire, PostgreSQL, JavaScript y Tailwind CSS**, participando tanto en el desarrollo de funcionalidades como en el diseño de la arquitectura y la administración de la infraestructura.
+Me dedico al desarrollo y mantenimiento de aplicaciones web. Actualmente trabajo principalmente con **Laravel, Livewire, PostgreSQL, JavaScript y Tailwind CSS**, participando tanto en el desarrollo de funcionalidades como en el diseño de la arquitectura y la administración de la infraestructura.
 
-También cuento con amplia experiencia en administración de servidores Linux, redes, seguridad, automatización de despliegues, monitoreo y mantenimiento de entornos de producción.
+También cuento con experiencia en administración de servidores Linux, redes, seguridad, automatización de despliegues, monitoreo y mantenimiento de entornos de producción.
 
 Actualmente estoy enfocado en diseñar aplicaciones empresariales mantenibles, mejorar la arquitectura de software y profundizar mis conocimientos en **TypeScript, React, Next.js y NestJS**.
 
